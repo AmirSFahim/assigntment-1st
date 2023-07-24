@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-#heading-section{
+.first-section{
     background-color: rgba(243, 41, 84, 0.1);
     display: flex;
     align-items: center;
@@ -50,11 +50,11 @@ button:hover{
     padding: 20px;
     padding-top: 100px;
 }
-#Section2 h1{
+h1{
     font-size: 30px;
     color: #151313;
 }
-#Section2 p{
+p{
     color: rgba(105, 104, 104, 0.6);
     font-size: small;
     font-family: inherit;
@@ -86,4 +86,36 @@ button:hover{
 .tree-section{
     padding-bottom: 10px;
     margin-top: 20px;
-    text-decoration: underline;}
+    text-decoration: underline;
+}
+
+.Delivery{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgba(30, 10, 241, 0.05);
+    margin: 50px 200px;
+    padding: 30px;
+}
+
+
+.discount-section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 100px;
+    /* background-color: blue; */
+    background-color: rgba(117, 7, 31, 0.05);
+    width: 100%;
+    height: 450px;
+    
+}
+.discount{
+    margin-top: 100px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.flower-rose{
+    padding-top: 25px;
+    height: 50px;
+}
