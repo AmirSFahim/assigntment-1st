@@ -46,7 +46,7 @@ button:hover{
     transition: all 0.2s ease-in;
      cursor: pointer;
 }
-
+/* second section */
 #Section2{
     text-align: center;
     padding: 20px;
@@ -100,13 +100,13 @@ p{
     padding: 30px;
 }
 
+/* discount */
 
 .discount-section{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    margin-top: 100px;
-    /* background-color: blue; */
+    margin-top: 100px;  
     background-color: rgba(117, 7, 31, 0.05);
     width: 100%;
     height: 450px;
@@ -121,6 +121,7 @@ p{
     padding-top: 25px;
     height: 50px;
 }
+/* insta */
 .insta-section{
     text-align: center;
     padding-top: 100px
@@ -131,7 +132,7 @@ p{
     
     margin: 10px 150px 10px 150px;
 }
-
+/* deals */
 .Deals-section{
     margin: 100px 155px;
     padding: 10px;
@@ -156,7 +157,8 @@ input{
     font-size: 20px;
 }
 
-/* fotter */
+/* footer */
+
 footer{
     display: flex;
     justify-content: center;
